@@ -1,4 +1,4 @@
-# ThreeJs Starter Template
+# ThreeJs Basic Shader Example
 
 
 
